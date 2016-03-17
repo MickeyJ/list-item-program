@@ -1,6 +1,6 @@
 var actions = require('./actions');
-var ITEMS = '../items.json';
-var HELP  = '../help.txt';
+var ITEMS = './assets/items.json';
+var HELP  = './assets/help.txt';
 
 function Store(){
 

@@ -9,10 +9,18 @@
   },
   {
     "id": 3,
-    "item": "Brocoli"
+    "item": "Broccoli"
   },
   {
     "id": 4,
     "item": "Juice"
+  },
+  {
+    "id": 5,
+    "item": "Oranges"
+  },
+  {
+    "id": 6,
+    "item": "Bananas"
   }
 ]

@@ -1,5 +1,5 @@
-var store = require('./store');
-var c = require('./commands');
+var store = require('./src/store');
+var c = require('./src/commands');
 
 switch (c.argv2.toUpperCase()) {
   case c.ADD:
