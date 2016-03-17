@@ -1,0 +1,10 @@
+Welcome! This a grocery list program.
+
+Add an item:
+$ node reducer.js -A [your item]
+
+Remove an item:
+$ node reducer.js -D [item id number]
+
+List all items:
+$ node reducer.js -L
